@@ -1,0 +1,7 @@
+0. 安装esxi ulock 脚本并重启测试。
+
+
+1. 从dmg中提取出来Install ... 文件（脚本默认使用/Application目录）
+2. 使用脚本转换即可
+
+[参考文章](https://www.white-alone.com/ESXi%20%E8%99%9A%E6%8B%9FMacOS%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F/) 
